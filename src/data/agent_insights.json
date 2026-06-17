@@ -1,0 +1,32 @@
+{
+  "updatedAt": "2026-06-09T20:03:00Z",
+  "source": "Antigravity AI Agent Web Grounding (BBC, Fotbollskanalen, SVT)",
+  "insights": {
+    "injuredOrSuspended": [
+      { "name": "Frenkie de Jong", "team": "Netherlands", "status": "Out (injury)", "details": "Ruled out of the initial squad due to persistent ankle injury." },
+      { "name": "Serge Gnabry", "team": "Germany", "status": "Out (injury)", "details": "Misses World Cup 2026 due to hamstring tear." },
+      { "name": "Destiny Udogie", "team": "Italy", "status": "Out (injury)", "details": "Sidelined following quadriceps surgery." }
+    ],
+    "budgetPicks": [
+      { "name": "Viktor Gyökeres", "pos": "FWD", "team": "Sverige", "price": 6.0, "reason": "Sverige's talisman. Highlighted by Fotbollskanalen as an underpriced forward at 6.0M. Elite goal-to-price ratio." },
+      { "name": "Arda Güler", "pos": "MID", "team": "Turkiet", "price": 4.5, "reason": "Set-piece specialist and creative driver for Turkey. Highly recommended by international media as a bargain midfielder." },
+      { "name": "Hernán Galíndez", "pos": "GK", "team": "Ecuador", "price": 3.0, "reason": "Starts for defensively robust Ecuador. Exceptional budget option for opening rounds." },
+      { "name": "Antonee Robinson", "pos": "DEF", "team": "USA", "price": 4.5, "reason": "Highly offensive fullback with host-nation advantage. High cross volume and potential assist output." }
+    ],
+    "premiumStars": [
+      { "name": "Harry Kane", "pos": "FWD", "team": "England", "price": 12.0, "reason": "England's primary penalty taker and central striker. Heavy favorite in group fixtures." },
+      { "name": "Bruno Fernandes", "pos": "MID", "team": "Portugal", "price": 10.5, "reason": "Direct playmaker, set-piece specialist, and highly active in shots-on-goal metrics." },
+      { "name": "Lamine Yamal", "pos": "FWD", "team": "Spanien", "price": 9.0, "reason": "Spain's creative winger. Elite dribbling stats and high crossing frequency." }
+    ],
+    "matchday1CleanSheets": [
+      { "team": "USA", "opponent": "Bolivia", "chance": "High" },
+      { "team": "Ecuador", "opponent": "Qatar", "chance": "High" },
+      { "team": "England", "opponent": "Iran", "chance": "High" }
+    ],
+    "strategyTips": [
+      "Target low-priced starters: Balancing expensive premium stars requires picking bargain players like Gyökeres (6.0M) and Güler (4.5M).",
+      "Captaincy is key: Välj din lagkapten med stor noggrannhet. Captains score double value-growth. Välj en pålitlig straffskytt som Kane eller Messi.",
+      "Calculate transfer fee: Transfers cost 0.7% from Round 2 onwards (deducted from bank budget)."
+    ]
+  }
+}
